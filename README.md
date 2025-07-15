@@ -1,6 +1,6 @@
 # Steins - Software de análise estrutural open-source
 
-**STEINS** é um software open-source desenvolvido em 2022 como projeto de conclusão de curso na Universidade Federal de Roraima. Ele permite a análise de estruturas reticuladas bidimensionais — como **vigas contínuas**, **pórticos**, **quadros compostos** e **treliças** — utilizando o **Método da Rigidez Direta (MRD)**.
+**STEINS** é um software open-source desenvolvido em 2022 como meu projeto de conclusão de curso na Universidade Federal de Roraima. Ele permite a análise de estruturas reticuladas bidimensionais — como **vigas contínuas**, **pórticos**, **quadros compostos** e **treliças** — utilizando o **Método da Rigidez Direta (MRD)**.
 
 O projeto foi implementado em **C++**, com base no paradigma da **Programação Orientada a Objetos**, visando modularidade, legibilidade e fácil expansão. 
 
