@@ -8,7 +8,8 @@ Além da análise estrutural, o STEINS inclui implementações próprias de matr
 
 O objetivo é proporcionar uma base robusta e transparente para estudantes, pesquisadores e engenheiros que desejam:
 
-Estudar ou aplicar o MRD com liberdade total
-Contribuir para o projeto
-Criar versões personalizadas de software de análise estrutural
-O código-fonte é totalmente aberto e documentado. Sinta-se à vontade para explorar, utilizar e contribuir!
+-Estudar ou aplicar o MRD com liberdade total
+-Contribuir para o projeto
+-Criar versões personalizadas de software de análise estrutural
+
+> O código-fonte é totalmente aberto e documentado. Sinta-se à vontade para explorar, utilizar e contribuir!
