@@ -1,14 +1,15 @@
-# Steins - Software de análise estrutural open-source
+# Steins — Open-source structural analysis software
 
-**STEINS** é um software open-source desenvolvido em 2022 como meu projeto de conclusão de curso na Universidade Federal de Roraima. Ele permite a análise de estruturas reticuladas bidimensionais — como **vigas contínuas**, **pórticos**, **quadros compostos** e **treliças** — utilizando o **Método da Rigidez Direta (MRD)**.
+**STEINS** is an open-source software developed in 2022 as my undergraduate capstone project at the Federal University of Roraima. It performs the analysis of two-dimensional framed structures — such as **continuous beams**, **frames**, **composite frames**, and **trusses** — using the **Direct Stiffness Method (DSM)**.
 
-O projeto foi implementado em **C++**, com base no paradigma da **Programação Orientada a Objetos**, visando modularidade, legibilidade e fácil expansão. 
+The project was implemented in **C++**, based on the **Object-Oriented Programming** paradigm, aiming for modularity, readability, and easy extensibility.
 
-Além da análise estrutural, o STEINS inclui **implementações próprias de matrizes, equações polinomiais e resolução de sistemas lineares**, oferecendo controle total sobre os métodos numéricos empregados.
+Beyond structural analysis, STEINS includes **its own implementations of matrices, polynomial equations, and linear system solvers**, offering full control over the numerical methods used.
 
-O objetivo é proporcionar uma base robusta e transparente para estudantes, pesquisadores e engenheiros que desejam:
-- Estudar ou aplicar o MRD com liberdade total
-- Contribuir para o projeto
-- Criar versões personalizadas de software de análise estrutural
+The goal is to provide a robust and transparent foundation for students, researchers, and engineers who want to:
 
-> O código-fonte é totalmente aberto e documentado. Sinta-se à vontade para explorar, utilizar e contribuir!
+- Study or apply the DSM with complete freedom
+- Contribute to the project
+- Build custom versions of structural analysis software
+
+> The source code is fully open and documented. Feel free to explore, use, and contribute!
